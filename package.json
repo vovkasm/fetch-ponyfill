@@ -41,7 +41,7 @@
     "rimraf": "~2.5.2",
     "sinon": "~1.17.4",
     "testem": "^1.15.0",
-    "webpack": "~1.13.0",
+    "webpack": "^2.0.0",
     "whatwg-fetch": "~2.0.1"
   },
   "files": [
